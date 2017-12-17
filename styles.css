@@ -23,6 +23,7 @@ body {
 }
 
 header {
+    z-index: -2;
     background-color:#4669a3;
     color:#ffffff;
     padding-top: 10px;
